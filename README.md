@@ -28,3 +28,8 @@ The project follows the following folder structure:
   - `manage.py`: Django management script. Provides various commands for managing the Django project, such as running the development server, applying database migrations, and creating new app components.
 
 The folder structure is organized in a way that separates the app-specific files, such as models, views, templates, and static assets, within the `TODOAPP/` directory. This modular structure allows for better organization and separation of concerns, making it easier to maintain and extend the application.
+
+## Main Screen 
+at http://127.0.0.1:8000/
+![image](https://github.com/SalmaElmahdy/Django_TodoApp/assets/77749264/0c7e307e-0895-4ea8-aeb1-f026b514a78f)
+
