@@ -31,5 +31,5 @@ The folder structure is organized in a way that separates the app-specific files
 
 ## Main Screen 
 at http://127.0.0.1:8000/
-![image](https://github.com/SalmaElmahdy/Django_TodoApp/assets/77749264/0c7e307e-0895-4ea8-aeb1-f026b514a78f)
+![image](https://github.com/SalmaElmahdy/Django_TodoApp/assets/77749264/6d91fab6-491e-462d-87ec-03c55af26725)
 
